@@ -30,7 +30,7 @@ h2 {
 
 .bg {
   width: 40%;
-  background-image: url(./background.avif);
+  background-image: url(/background.avif);
   background-repeat: no-repeat;
   background-size: cover;
   position: relative;
